@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "terrain tank star.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "background tankstar.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.25
+        },
+        "tankstargamemap.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 879,
+                "y": 593
+            }
+        },
+        "terrain tank star.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/SIDDHARTH/Desktop",
+    "map.height": 216,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 5,
+    "map.tileWidth": 5,
+    "map.width": 384,
+    "openFiles": [
+        "tankstargamemap.tmx",
+        "background tankstar.tsx",
+        "terrain tank star.tsx"
+    ],
+    "project": "tankstargame.tiled-project",
+    "recentFiles": [
+        "tankstargamemap.tmx",
+        "background tankstar.tsx",
+        "terrain tank star.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 5,
+        "width": 5
+    }
+}
